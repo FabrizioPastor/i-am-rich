@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "playstore.jpeg",
+      "filename" : "iamrich.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "playstore-1.jpeg",
+      "filename" : "iamrich@2x.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "playstore-2.jpeg",
+      "filename" : "iamrich@3x.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }
